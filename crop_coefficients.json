@@ -1,0 +1,17 @@
+{
+  "wheat": {
+    "initial": 0.4,
+    "mid": 1.15,
+    "late": 0.35
+  },
+  "rice": {
+    "initial": 1.05,
+    "mid": 1.2,
+    "late": 0.9
+  },
+  "cotton": {
+    "initial": 0.35,
+    "mid": 1.15,
+    "late": 0.6
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "wheat": [
+    "mung bean",
+    "cowpea",
+    "sesame"
+  ],
+  "rice": [
+    "mustard",
+    "potato",
+    "lentil"
+  ],
+  "cotton": [
+    "chickpea",
+    "wheat"
+  ],
+  "mustard": [
+    "maize",
+    "green gram"
+  ]
+}
